@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vismaya 👩‍💻
+- <h1>👋 Hi, I’m Vismaya 👩‍💻</h1>
 - 👀 I’m interested in iOS and Flutter App Development
 - 🌱 I’m currently learning Flutter   
 - 📫 How to reach me 
